@@ -5,25 +5,28 @@ table, th, td {
 }
 .round {
 	position: absolute;
-   	top: 140px;
+   	/*top: 140px;
     	right: 30px;
 	width:150px;
-	height:150px;
+	height:150px;*/
        }
 .round img {
 	position: absolute;
    	top: 0px;
     	right: 50px;
-	border-radius:50% 50% 50% 50%;  
+	/*border-radius:50% 50% 50% 50%;  
 
 
 	width:150px;
 
 
-  	height:150px;
+  	height:150px;*/
 
-           
-		}
+       
+    }
+    img.img-circle.profile_img {
+      width: 100%;
+  } 
 body{
 	background-image: url("images.jpg");
 }
